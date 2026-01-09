@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+pymysql
+matplotlib
+pmdarima
+scikit-learn
+statsmodels
+scipy
