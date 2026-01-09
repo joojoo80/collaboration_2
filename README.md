@@ -43,10 +43,10 @@
 
 
 ## 설치 및 실행방법:
-○ 저장소 복사 : git@github.com:joojoo80/collaboration_2.git
+1. 저장소 복사 : git@github.com:joojoo80/collaboration_2.git
 
-○ DB 추가 : car_dashboard.sql 파일로 DB 추가
+2. DB 추가 : car_dashboard.sql 파일로 DB 추가
 
-○ 모듈 설치 : pip install -r requirements.txt
+3. 모듈 설치 : pip install -r requirements.txt
 
-○ 실행 : streamlit run app.py
+4. 실행 : streamlit run app.py
